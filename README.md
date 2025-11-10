@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Community Markets Web Application](https://github.com/tngubane-ctrl/comm)
+  - [Community Markets Web Application](https://github.com/tngubane-ctrl/web-comm-markets))
  
 
 <h2> 🤳 Connect with me:</h2>
