@@ -1,4 +1,4 @@
-<h1>Hi, I'm Thandokuhle! <br/><a href="https://github.com/tngubane-ctrl">Programmer, Web Developer & Application Developer (Front-end & Back-end)</a>, </h1>
+<h2>Hi, I'm Thandokuhle! <br/><a href="https://github.com/tngubane-ctrl">Programmer, Web Developer & Application Developer (Front-end & Back-end)</a>, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
